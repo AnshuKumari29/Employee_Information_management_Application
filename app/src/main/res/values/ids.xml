@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="idRVData" type="id" />
+    <item name="idFABadd" type="id" />
+    <item name="idbtnOpenDialog" type="id" />
+    <item name="idemployee" type="id" />
+</resources>
